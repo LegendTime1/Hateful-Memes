@@ -13,11 +13,6 @@ Based on the output from TextRemoval.ipynb, we can observe the impact of text ov
 Orignial Image             |  Overlaid Captions Removed
 :-------------------------:|:-------------------------:
 ![](images/01235.png)  |  ![](images/01235_modified.png)
+![](images/42935.png)  |  ![](images/42935_modified.png)
 
-<img align="left" width = "400" src="images/01235.png">
-<img align="right" width = "400" src="images/01235_modified.png">
-<br />
-<br />
-<img align="left" width = "400" src="images/42953.png">
-<img align="right" width = "400" src="images/42953_modified.png">
 
