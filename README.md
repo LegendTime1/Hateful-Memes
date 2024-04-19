@@ -17,3 +17,5 @@ Original Image             |  Overlaid Captions Removed
 
 
 
+## Paper Reading (https://arxiv.org/pdf/2305.15913.pdf)
+https://docs.google.com/document/d/1_4CtgE0j2ROb2soslk0yOjtPsF9KzxXoBm74Bf5vO-U/edit?addon_store
