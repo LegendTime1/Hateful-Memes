@@ -12,5 +12,6 @@ Based on the output from TextRemoval.ipynb, we can observe the impact of text ov
 <img align="left" width = "480" src="images/01235.png">
 <img align="right" width = "480" src="images/01235_modified.png">
 
-![](images/01235.png) 
-![](images/01235_modified.png)
+<img align="left" width = "480" src="images/42953.png">
+<img align="right" width = "480" src="images/42953_modified.png">
+
