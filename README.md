@@ -9,8 +9,8 @@ Based on the output from TextRemoval.ipynb, we can observe the impact of text ov
 
 * **Overall Performance**: The presence of text overlays decreases the confidence scores for object detection generally speaking. The position of text also plays a major role in determining whether the modified image (i.e., without text) performs better in object detection or not. This is because text removal techniques like keras-ocr and cv2.inpaint often leave a blurred space in place of the text. So, for objects with low confidence scores in the original image, the confidence score after text removal is unpredictable. In some cases, it's better with the text, while in others, YOLOv5 detects a completely new object in the text-removed image which it didn't detect in the original image. However, the algorithm still generally performs reasonably well. Many objects are still detected with high confidence scores, indicating that the algorithm is robust to some degree of visual complexity introduced by text overlays
 
-<img align="left" width = "450" src="images/01235.png">
-<img align="right" width = "450" src="images/01235_modified.png">
+<img align="left" width = "475" src="images/01235.png">
+<img align="right" width = "475" src="images/01235_modified.png">
 
 ![](images/01235.png) 
 ![](images/01235_modified.png)
